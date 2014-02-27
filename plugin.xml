@@ -2,7 +2,7 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
            id="org.dartlang.barometer"
-      version="0.2.6">
+      version="0.0.2">
 	
     <name>Device Barometer</name>
     <description>Cordova Device Barometer Plugin</description>
