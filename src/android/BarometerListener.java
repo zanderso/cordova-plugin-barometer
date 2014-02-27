@@ -56,7 +56,7 @@ public class BarometerListener extends CordovaPlugin implements SensorEventListe
      * Create an barometer listener.
      */
     public BarometerListener() {
-        this.pressure = 0.0;
+        this.pressure = 0;
         this.timestamp = 0;
         this.setStatus(BarometerListener.STOPPED);
      }

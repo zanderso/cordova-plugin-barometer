@@ -3,8 +3,8 @@
     "name": "org.dartlang.barometer",
     "cordova_name": "Device Barometer",
     "description": "Cordova Device Barometer Plugin",
-    "license": "",
-    "repo": "",
+    "license": "LICENSE",
+    "repo": "https://github.com/zanderso/cordova-plugin-barometer",
     "issue": "",
     "keywords": [
         "cordova",

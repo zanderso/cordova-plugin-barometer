@@ -6,9 +6,9 @@
 	
     <name>Device Barometer</name>
     <description>Cordova Device Barometer Plugin</description>
-    <license></license>
+    <license>LICENSE</license>
     <keywords>cordova,device,barometer</keywords>
-    <repo></repo>
+    <repo>https://github.com/zanderso/cordova-plugin-barometer</repo>
     <issue></issue>
 
     <js-module src="www/Pressure.js" name="Pressure">
