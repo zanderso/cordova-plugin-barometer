@@ -1,0 +1,15 @@
+{
+    "version": "0.0.1",
+    "name": "org.dartlang.barometer",
+    "cordova_name": "Device Barometer",
+    "description": "Cordova Device Barometer Plugin",
+    "license": "",
+    "repo": "",
+    "issue": "",
+    "keywords": [
+        "cordova",
+        "device",
+        "barometer"
+    ],
+    "engines": []
+}
