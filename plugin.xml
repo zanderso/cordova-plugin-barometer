@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-           id="org.dartlang.barometer"
+           id="org.dartlang.phonegap.barometer"
       version="0.0.2">
 	
     <name>Device Barometer</name>
@@ -24,11 +24,11 @@
 	    
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="Barometer">
-                <param name="android-package" value="org.dartlang.barometer.BarometerListener"/>
+                <param name="android-package" value="org.dartlang.phonegap.barometer.BarometerListener"/>
             </feature>
         </config-file>
 
-        <source-file src="src/android/BarometerListener.java" target-dir="src/org/dartlang/barometer" />
+        <source-file src="src/android/BarometerListener.java" target-dir="src/org/dartlang/phonegap/barometer" />
     
     </platform>
 </plugin>

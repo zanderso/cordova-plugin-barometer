@@ -2,13 +2,13 @@
 // for details. All rights reserved. Use of this source code is governed by a
 // BSD-style license that can be found in the LICENSE file.
 
-# org.dartlang.barometer
+# org.dartlang.phonegap.barometer
 
 This plugin provides access to the device's barometer.
 
 ## Installation
 
-    cordova plugin add org.dartlang.barometer
+    cordova plugin add org.dartlang.phonegap.barometer
 
 ## Supported Platforms
 

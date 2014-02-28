@@ -1,6 +1,6 @@
 {
     "version": "0.0.2",
-    "name": "org.dartlang.barometer",
+    "name": "org.dartlang.phonegap.barometer",
     "cordova_name": "Device Barometer",
     "description": "Cordova Device Barometer Plugin",
     "license": "LICENSE",
