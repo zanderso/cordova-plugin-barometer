@@ -8,7 +8,7 @@ This plugin provides access to the device's barometer.
 
 ## Installation
 
-    cordova plugin add org.dartlang.phonegap.barometer
+    cordova plugin add https://github.com/zanderso/cordova-plugin-barometer.git
 
 ## Supported Platforms
 
